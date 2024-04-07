@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peishan Cong"
-description              : 
+description              : "Phd at ShanghaiTech University"
 repository               : "coralemon/coralemon.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peishan Cong"
   avatar           : "images/peishancong.png"
-  bio              : "Major in Computer Science, interested in 3D point cloud perception, human-centric scene understanding, human motion generation."
+  bio              : "Major in Computer Science, Phd student at Visual & Data Intelligence Center(VDI Center), 4DVlab, ShanghaiTech University. Interested in 3D point cloud perception, human-centric scene understanding, human motion generation."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
