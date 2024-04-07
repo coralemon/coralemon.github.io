@@ -18,41 +18,33 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a PHD student in 4DVLab, ShanghaiTech University, supervised by Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. My research focuses on human-centric scene understanding, multi-modal inputs, thereby enabling embodied planning and physical interactions. In recent years, we have contributed several fundamental endeavors in general 3D perception from LiDAR point clouds, monocular images and videos with an open-source codebase, MMDetection3D.
+I am currently PHD student at Visual & Data Intelligence Center(VDI Center), 4DVLab, ShanghaiTech University, supervised by Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I received my bachelor degree from ShanghaiTech with the outstanding graduate student honor.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023,AAAI 2023,and ICCV 2023!
+- *2022*: &nbsp;🎉🎉 Papers accpeted by CVPR 2022 and ICME 2022!
+- *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/icme1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/hucenlife.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Input-output balanced framework for long-tailed lidar semantic segmentation](https://arxiv.org/pdf/2103.14269)
+[Human-centric Scene Understanding in 3D Large-scale Scenarios. ](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Human-centric_Scene_Understanding_for_3D_Large-scale_Scenarios_ICCV_2023_paper.pdf)
+ICCV,2023
 
-**Peishan Cong**, Xinge Zhu, Yuexin Ma.
+Yiteng Xu\*,**Peishan Cong** \*,Yichen Yao\*, Runnan Chen, Yuenan Hou, Xinge Zhu, Xuming He, Jingyi Yu,Yuexin Ma. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/stcrowd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/fusionpose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stcrowd: A multimodal dataset for pedestrian perception in crowded scenes.](https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_STCrowd_A_Multimodal_Dataset_for_Pedestrian_Perception_in_Crowded_Scenes_CVPR_2022_paper.pdf)
+[Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR.](https://arxiv.org/pdf/2205.15410)
+AAAI,2023
 
-**Peishan Cong**, Xinge Zhu, Feng Qiao, Yiming Ren, Xidong Peng, Yuenan Hou, Lan Xu, Ruigang Yang, Dinesh Manocha, Yuexin Ma. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/icme2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Self-Supervised Point Cloud Completion on Real Traffic Scenes Via Scene-Concerned Bottom-Up Mechanism.](https://arxiv.org/pdf/2203.10569)
-
-Yiming Ren, **Peishan Cong**, Xinge Zhu, Yuexin Ma.
+**Peishan Cong** \*, Yiteng Xu\*, Yiming Ren, Juze Zhang, Lan Xu, Jingya Wang, Jingyi Yu, Yuexin Ma. 
 </div>
 </div>
 
@@ -60,29 +52,41 @@ Yiming Ren, **Peishan Cong**, Xinge Zhu, Yuexin Ma.
 <div class='paper-box-text' markdown="1">
 
 [Lidar-aid inertial poser: Large-scale human motion capture by sparse inertial and lidar sensors.](https://arxiv.org/pdf/2205.15410)
+TVCG,2023
 
 Yiming Ren*, Chengfeng Zhao*, Yannan He, **Peishan Cong**, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/fusionpose' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/icme2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR.](https://arxiv.org/pdf/2205.15410)
+[Self-Supervised Point Cloud Completion on Real Traffic Scenes Via Scene-Concerned Bottom-Up Mechanism.](https://arxiv.org/pdf/2203.10569)
+ICME,2022
 
-**Peishan Cong**, Yiteng Xu*, Yiming Ren, Juze Zhang, Lan Xu, Jingya Wang, Jingyi Yu, Yuexin Ma. 
+Yiming Ren, **Peishan Cong**, Xinge Zhu, Yuexin Ma.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/hucenlife.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/stcrowd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lidar-aid inertial poser: Large-scale human motion capture by sparse inertial and lidar sensors.](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Human-centric_Scene_Understanding_for_3D_Large-scale_Scenarios_ICCV_2023_paper.pdf)
-
-Yiteng Xu*,**Peishan Cong** *,Yichen Yao*, Runnan Chen, Yuenan Hou, Xinge Zhu, Xuming He, Jingyi Yu,Yuexin Ma. Human-centric Scene Understanding in 3D Large-scale Scenarios. 
+[Stcrowd: A multimodal dataset for pedestrian perception in crowded scenes.](https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_STCrowd_A_Multimodal_Dataset_for_Pedestrian_Perception_in_Crowded_Scenes_CVPR_2022_paper.pdf)
+CVPR,2022
+**Peishan Cong**, Xinge Zhu, Feng Qiao, Yiming Ren, Xidong Peng, Yuenan Hou, Lan Xu, Ruigang Yang, Dinesh Manocha, Yuexin Ma. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/icme2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Input-output balanced framework for long-tailed lidar semantic segmentation](https://arxiv.org/pdf/2103.14269)
+ICME,2021
+**Peishan Cong**, Xinge Zhu, Yuexin Ma.
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2022.10, 2023.10* Merit Student
 - *2021.06* Outstanding graduate Student , Shanghai
