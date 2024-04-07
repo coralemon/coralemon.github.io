@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Peishan Cong"
-  avatar           : "images/peishancong.png"
+  avatar           : "images/congpeishan.png"
   bio              : "Major in Computer Science, Phd student at Visual & Data Intelligence Center(VDI Center), 4DVlab, ShanghaiTech University. Interested in 3D point cloud perception, human-centric scene understanding, human motion generation."
   location         : "Shanghai, China"
   employer         :
