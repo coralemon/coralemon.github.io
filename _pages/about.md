@@ -22,7 +22,7 @@ I am currently a PhD student at the Visual & Data Intelligence Center (VDI Cente
 I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
 # 🔥 News
-- *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023,AAAI 2023,and ICCV 2023!
+- *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023, AAAI 2023, and ICCV 2023!
 - *2022*: &nbsp;🎉🎉 Papers accpeted by CVPR 2022 and ICME 2022!
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
@@ -74,6 +74,7 @@ Yiming Ren, **Peishan Cong**, Xinge Zhu, Yuexin Ma.
 
 [Stcrowd: A multimodal dataset for pedestrian perception in crowded scenes.](https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_STCrowd_A_Multimodal_Dataset_for_Pedestrian_Perception_in_Crowded_Scenes_CVPR_2022_paper.pdf)
 CVPR,2022
+
 **Peishan Cong**, Xinge Zhu, Feng Qiao, Yiming Ren, Xidong Peng, Yuenan Hou, Lan Xu, Ruigang Yang, Dinesh Manocha, Yuexin Ma. 
 </div>
 </div>
@@ -83,18 +84,19 @@ CVPR,2022
 
 [Input-output balanced framework for long-tailed lidar semantic segmentation](https://arxiv.org/pdf/2103.14269)
 ICME,2021
+
 **Peishan Cong**, Xinge Zhu, Yuexin Ma.
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2022.10, 2023.10* Merit Student
+- *2022.10, 2023.10* Merit Student, ShanghaiTech University
 - *2021.06* Outstanding graduate Student , Shanghai
 - *2020.02* Outstanding Teacher Assistant Award, ShanghaiTech University
 - *2019.10* Third Prize Scholarship, ShanghaiTech University
 - *2019.9* Outstanding Student Award, ShanghaiTech University	
 
 # 📖 Educations
-- *2021.09 - present* , PHD, ShanghaiTech University, Shanghai, China.
+- *2021.09 - present* , PhD, ShanghaiTech University, Shanghai, China.
 - *2017.09 - 2021.07* , Bachelor, ShanghaiTech University, Shanghai, China.
 
 # 💬 Teaching Assistants
@@ -102,7 +104,7 @@ ICME,2021
   - Computer Graphic (Spring 2022,Fall 2022).
   - Algorithms and Analysis (Fall 2021).
   - Optimization and Machine learning (Spring 2020).
-  - Algorithms and AnalysisDatabase and Data mining (Fall 2019).
+  - Database and Data mining (Fall 2019).
 - Utech Academy, 2021.06
   - Machine learning
 
