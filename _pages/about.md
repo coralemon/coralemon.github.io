@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a PhD student at the Visual & Data Intelligence Center (VDI Center), 4DVLab, ShanghaiTech University, under the supervision of Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation.
 
-I am currently PHD student at Visual & Data Intelligence Center(VDI Center), 4DVLab, ShanghaiTech University, supervised by Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation. 
-
-I received my bachelor degree from ShanghaiTech with the outstanding graduate student honor.
+I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
 # 🔥 News
 - *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023,AAAI 2023,and ICCV 2023!
@@ -54,7 +53,7 @@ AAAI,2023
 [Lidar-aid inertial poser: Large-scale human motion capture by sparse inertial and lidar sensors.](https://arxiv.org/pdf/2205.15410)
 TVCG,2023
 
-Yiming Ren*, Chengfeng Zhao*, Yannan He, **Peishan Cong**, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma.
+Yiming Ren\*, Chengfeng Zhao\*, Yannan He, **Peishan Cong**, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma.
 </div>
 </div>
 
@@ -95,8 +94,8 @@ ICME,2021
 - *2019.9* Outstanding Student Award, ShanghaiTech University	
 
 # 📖 Educations
-- *2021.09 - present *, PHD, ShanghaiTech University, Shanghai, China.
-- *2017.09 - 2021.07 *, Bachelor, ShanghaiTech University, Shanghai, China.
+- *2021.09 - present* , PHD, ShanghaiTech University, Shanghai, China.
+- *2017.09 - 2021.07* , Bachelor, ShanghaiTech University, Shanghai, China.
 
 # 💬 Teaching Assistants
 - ShanghaiTech University, 2019.10 - 2022.12
