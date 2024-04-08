@@ -14,7 +14,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-<meta name="google-site-verification" content="ZbZDsU8fyw3CEWve6hVQxKyYLucxAmauhF4WfDax1X0" />
 <span class='anchor' id='about-me'></span>
 
 I am currently a PhD student at the Visual & Data Intelligence Center (VDI Center), 4DVLab, ShanghaiTech University, under the supervision of Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation.
