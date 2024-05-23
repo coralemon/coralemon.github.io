@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the Visual & Data Intelligence Center (VDI Center), 4DVLab, ShanghaiTech University, under the supervision of Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation.
+I am currently a PhD student at the Visual & Data Intelligence Center (VDI Center), 4DVLab, ShanghaiTech University, under the supervision of Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. I am also fortunate to be a visiting student at [MMLab](http://mmlab.ie.cuhk.edu.hk), CHUK, mentored by  Prof. <a href='https://xyue.io/'>Xiangyu Yue</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation.
 
 I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
