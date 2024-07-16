@@ -21,11 +21,32 @@ I am currently a PhD student at the Visual & Data Intelligence Center (VDI Cente
 I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
 # 🔥 News
+- *2024*: &nbsp;🎉🎉 Papers accpeted by ECCV 2024, ACMMM 2024!
 - *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023, AAAI 2023, and ICCV 2023!
 - *2022*: &nbsp;🎉🎉 Papers accpeted by CVPR 2022 and ICME 2022!
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/FreeGait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gait Recognition in Large-scale Free Environment via Single LiDAR. ]
+ACMMM,2024
+
+Xiao Han,Yiming Ren, **Peishan Cong**, Yujing Sun, Jingya Wang, Lan Xu, Yuexin Ma.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/WildRefer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language. ]
+ECCV,2024
+
+Zhenxiang Lin,Xidong Peng,**Peishan Cong**,Ge Zheng,Yujing Sun,Yuenan Hou,Xinge Zhu,Sibei Yang,Yuexin Ma.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/hucenlife.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
