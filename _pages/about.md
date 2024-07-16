@@ -27,17 +27,17 @@ I received my bachelor's degree from ShanghaiTech University with the honor of o
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/FreeGait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/FreeGait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gait Recognition in Large-scale Free Environment via Single LiDAR. ]
+Gait Recognition in Large-scale Free Environment via Single LiDAR. 
 ACMMM,2024
 
 Xiao Han,Yiming Ren, **Peishan Cong**, Yujing Sun, Jingya Wang, Lan Xu, Yuexin Ma.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/WildRefer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/WildRefer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language. ]
