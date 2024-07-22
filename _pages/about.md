@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the Visual & Data Intelligence Center (VDI Center), 4DVLab, ShanghaiTech University, under the supervision of Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. I am also fortunate to be a visiting student at [MMLab](http://mmlab.ie.cuhk.edu.hk), CHUK, mentored by  Prof. <a href='https://xyue.io/'>Xiangyu Yue</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation.
+I am currently a PhD student at the Visual & Data Intelligence Center (VDI Center), 4DVLab, ShanghaiTech University, under the supervision of Prof. <a href='https://yuexinma.me/index.html'>Yuexin Ma</a>. I am also fortunate to be a visiting student at [MMLab](http://mmlab.ie.cuhk.edu.hk), CUHK, mentored by  Prof. <a href='https://xyue.io/'>Xiangyu Yue</a>. My research focuses on 3D point cloud perception, human-centric scene understanding, and human motion generation.
 
 I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
@@ -31,7 +31,7 @@ I received my bachelor's degree from ShanghaiTech University with the honor of o
 <div class='paper-box-text' markdown="1">
 
 Gait Recognition in Large-scale Free Environment via Single LiDAR. 
-ACMMM,2024
+ACMMM,2024 (**oral**)
 
 Xiao Han,Yiming Ren, **Peishan Cong**, Yujing Sun, Jingya Wang, Lan Xu, Yuexin Ma.
 </div>
@@ -43,7 +43,7 @@ Xiao Han,Yiming Ren, **Peishan Cong**, Yujing Sun, Jingya Wang, Lan Xu, Yuexin M
 [WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language. ]
 ECCV,2024
 
-Zhenxiang Lin,Xidong Peng,**Peishan Cong**,Ge Zheng,Yujing Sun,Yuenan Hou,Xinge Zhu,Sibei Yang,Yuexin Ma.
+Zhenxiang Lin, Xidong Peng, **Peishan Cong**, Ge Zheng, Yujing Sun, Yuenan Hou, Xinge Zhu, Sibei Yang, Yuexin Ma.
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Yiteng Xu\*,**Peishan Cong** \*,Yichen Yao\*, Runnan Chen, Yuenan Hou, Xinge Zhu
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR.](https://arxiv.org/pdf/2205.15410)
-AAAI,2023
+AAAI,2023 (**oral**)
 
 **Peishan Cong** \*, Yiteng Xu\*, Yiming Ren, Juze Zhang, Lan Xu, Jingya Wang, Jingyi Yu, Yuexin Ma. 
 </div>
