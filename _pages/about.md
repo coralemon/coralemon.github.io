@@ -30,8 +30,8 @@ I received my bachelor's degree from ShanghaiTech University with the honor of o
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/FreeGait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Gait Recognition in Large-scale Free Environment via Single LiDAR. 
-ACMMM,2024 (**oral**)
+[Gait Recognition in Large-scale Free Environment via Single LiDAR.](https://arxiv.org/pdf/2211.12371)
+ACMMM,2024 (**oral, Best paper candidate**)
 
 Xiao Han,Yiming Ren, **Peishan Cong**, Yujing Sun, Jingya Wang, Lan Xu, Yuexin Ma.
 </div>
@@ -40,7 +40,7 @@ Xiao Han,Yiming Ren, **Peishan Cong**, Yujing Sun, Jingya Wang, Lan Xu, Yuexin M
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/WildRefer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language. ]
+[WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language. ](https://arxiv.org/pdf/2304.05645)
 ECCV,2024
 
 Zhenxiang Lin, Xidong Peng, **Peishan Cong**, Ge Zheng, Yujing Sun, Yuenan Hou, Xinge Zhu, Sibei Yang, Yuexin Ma.
