@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peishan Cong"
   avatar           : "images/congpeishan.png"
-  bio              : "Major in Computer Science, a PhD student at Visual & Data Intelligence Center(VDI Center), 4DVlab, ShanghaiTech University. I am interested in 3D point cloud perception, human-centric scene understanding, human motion generation."
+  bio              : "Major in Computer Science, a PhD student at Visual & Data Intelligence Center(VDI Center), 4DVlab, ShanghaiTech University. I am interested in 3D point cloud perception, human-centric scene understanding, human motion generation, embodied AI."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KAjruhYAAAAJ"
-  email            : "congpsh@shanghaitech.com"
+  email            : "congpsh@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
