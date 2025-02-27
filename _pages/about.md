@@ -140,5 +140,5 @@ ICME,2021
   - Machine learning
 
 # 💻 Internships
-- *2024.05 - present*, [MMLab](http://mmlab.ie.cuhk.edu.hk), Hongkong, China.
+- *2024.05 - 2024.12*, [MMLab](http://mmlab.ie.cuhk.edu.hk), Hongkong, China.
 - *2021.12 - 2022.05*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai, China.
