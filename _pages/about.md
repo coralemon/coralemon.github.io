@@ -21,12 +21,23 @@ I am currently a PhD student at the Visual & Data Intelligence Center (VDI Cente
 I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
 # 🔥 News
+- *2025-02*: &nbsp;🎉🎉 Paper accpeted by CVPR 2025!
 - *2024*: &nbsp;🎉🎉 Papers accpeted by ECCV 2024, ACMMM 2024!
 - *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023, AAAI 2023, and ICCV 2023!
 - *2022*: &nbsp;🎉🎉 Papers accpeted by CVPR 2022 and ICME 2022!
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/semgeomo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance.]()
+CVPR,2025 
+
+**Peishan Cong**\*, Ziyi Wang\*, Yuexin Ma, Xiangyu Yue.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/FreeGait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
