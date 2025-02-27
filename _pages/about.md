@@ -28,7 +28,7 @@ I received my bachelor's degree from ShanghaiTech University with the honor of o
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/semgeomo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/framework_pdf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance.]()
