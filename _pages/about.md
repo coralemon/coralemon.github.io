@@ -120,7 +120,7 @@ ICME,2021
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2022.10, 2023.10* Merit Student, ShanghaiTech University
+- *2022.10, 2023.10, 2024.10* Merit Student, ShanghaiTech University
 - *2021.06* Outstanding graduate Student , Shanghai
 - *2020.02* Outstanding Teacher Assistant Award, ShanghaiTech University
 - *2019.10* Third Prize Scholarship, ShanghaiTech University
