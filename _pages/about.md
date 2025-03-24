@@ -28,7 +28,7 @@ I received my bachelor's degree from ShanghaiTech University with the honor of o
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/semgoemo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance.](https://arxiv.org/pdf/2503.01291)
@@ -56,7 +56,7 @@ Yufei Zhu\*, Yiming Zhong\*, Zemin Yang, **Peishan Cong**, Jingyi Yu, Xinge Zhu,
 [Laserhuman: language-guided scene-aware human motion generation in free environment](https://arxiv.org/pdf/2403.13307)
 Under Review 
 
-**Peishan Cong**\*, Ziyi Wang, Zhiyang Dou, Yiming Ren, Wei Yin, Kai Cheng, Yujing Sun, Xiaoxiao Long, Xinge Zhu, Yuexin Ma
+**Peishan Cong**, Ziyi Wang, Zhiyang Dou, Yiming Ren, Wei Yin, Kai Cheng, Yujing Sun, Xiaoxiao Long, Xinge Zhu, Yuexin Ma
 </div>
 </div>
 
