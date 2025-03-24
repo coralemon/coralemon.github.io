@@ -38,6 +38,28 @@ CVPR,2025
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/evolvinggrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment]()
+Under Review
+
+Yufei Zhu\*, Yiming Zhong\*, Zemin Yang, **Peishan Cong**, Jingyi Yu, Xinge Zhu, Yuexin Ma
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/laserhuman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Laserhuman: language-guided scene-aware human motion generation in free environment](https://arxiv.org/pdf/2403.13307)
+Under Review 
+
+**Peishan Cong**\*, Ziyi Wang, Zhiyang Dou, Yiming Ren, Wei Yin, Kai Cheng, Yujing Sun, Xiaoxiao Long, Xinge Zhu, Yuexin Ma
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/FreeGait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
