@@ -40,7 +40,7 @@ CVPR,2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/evolvinggrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/evolvinggrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment]()
@@ -50,7 +50,7 @@ Yufei Zhu\*, Yiming Zhong\*, Zemin Yang, **Peishan Cong**, Jingyi Yu, Xinge Zhu,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/laserhuman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/laserhuman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Laserhuman: language-guided scene-aware human motion generation in free environment](https://arxiv.org/pdf/2403.13307)
