@@ -21,8 +21,9 @@ I am currently a PhD student at the Visual & Data Intelligence Center (VDI Cente
 I received my bachelor's degree from ShanghaiTech University with the honor of outstanding graduate student.
 
 # 🔥 News
+- *2025-06*: &nbsp;🎉🎉 Paper accpeted by ICCV 2025!
 - *2025-02*: &nbsp;🎉🎉 Paper accpeted by CVPR 2025!
-- *2024*: &nbsp;🎉🎉 Papers accpeted by ECCV 2024, ACMMM 2024!
+- *2024*: &nbsp;🎉🎉 Papers accpeted by ECCV 2024, ACMMM 2024(best paper candicate)!
 - *2023*: &nbsp;🎉🎉 Papers accpeted by TVCG 2023, AAAI 2023, and ICCV 2023!
 - *2022*: &nbsp;🎉🎉 Papers accpeted by CVPR 2022 and ICME 2022!
 - *2021*: &nbsp;🎉🎉 One paper accpeted by ICME 2021!
@@ -39,12 +40,11 @@ CVPR,2025
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/evolvinggrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment]()
-Under Review
+[EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment](https://arxiv.org/html/2503.14329v1)
+ICCV 2025
 
 Yufei Zhu\*, Yiming Zhong\*, Zemin Yang, **Peishan Cong**, Jingyi Yu, Xinge Zhu, Yuexin Ma
 </div>
@@ -162,5 +162,6 @@ ICME,2021
   - Machine learning
 
 # 💻 Internships
+- *2025.05 - present*, [Alibaba], TSTAR-Top Inter, HangZhou, China.
 - *2024.05 - 2024.12*, [MMLab](http://mmlab.ie.cuhk.edu.hk), Hongkong, China.
 - *2021.12 - 2022.05*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai, China.
