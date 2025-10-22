@@ -50,6 +50,17 @@ Yufei Zhu\*, Yiming Zhong\*, Zemin Yang, **Peishan Cong**, Jingyi Yu, Xinge Zhu,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis](https://arxiv.org/pdf/2502.07358)
+SigraghAsia 2025
+
+Haoran Chen\*, Yiteng Xu\*, Yiming Ren, ..., **Peishan Cong**, Manyi Li,  Yuexin Ma, Changhe Tu
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/laserhuman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -162,6 +173,6 @@ ICME,2021
   - Machine learning
 
 # 💻 Internships
-- *2025.05 - present*, [Alibaba], TSTAR-Top Inter, HangZhou, China.
+- *2025.05 - 2025.08*, [Alibaba], TSTAR-Top Inter, HangZhou, China.
 - *2024.05 - 2024.12*, [MMLab](http://mmlab.ie.cuhk.edu.hk), Hongkong, China.
 - *2021.12 - 2022.05*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai, China.
