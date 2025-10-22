@@ -40,7 +40,7 @@ CVPR,2025
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/evolvinggrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/evolvinggrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment](https://arxiv.org/html/2503.14329v1)
@@ -50,7 +50,7 @@ Yufei Zhu\*, Yiming Zhong\*, Zemin Yang, **Peishan Cong**, Jingyi Yu, Xinge Zhu,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SigraghAsia 2025</div><img src='images/sim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis](https://arxiv.org/pdf/2502.07358)
